@@ -12,5 +12,5 @@ public class MedKatApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
+	
 }
